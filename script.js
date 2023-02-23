@@ -197,3 +197,20 @@
 // console.log(neighboursRemove);
 // const neighboursRemoveStart = neighbours.shift(); //remove the data from starting
 // console.log(neighboursRemoveStart);
+// const myCountry = {
+//   country: "india",
+//   capital: "delhi",
+//   language: "tamil",
+//   populations: 110,
+//   neighbours: ["west indies", "pakistan", "sri lanka"],
+// };
+// console.table(myCountry);
+// console.log(`${myCountry.country} has ${myCountry.populations} million ${myCountry.language}-speaking people,${myCountry.neighbours.length} neighbouring countries
+// and a capital called ${myCountry.capital}`);
+// console.log((myCountry.populations += 2));
+
+// you used braket notations --- Inside the brackets, write the property name as a string.
+// console.log((myCountry["populations"] -= 3));
+// console.log(myCountry["capital"]);
+// myCountry.states = 28;
+// console.log(myCountry["states"]);
